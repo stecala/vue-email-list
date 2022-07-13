@@ -8,3 +8,7 @@ h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.container-my{
+    width: 400px;
+    margin: 0 auto;
+}
