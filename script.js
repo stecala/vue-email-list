@@ -2,6 +2,7 @@ const app = new Vue({
     el: '#app',
     data: {
         arrayMail: []
+        
     },
     methods: {
         callBackApi(array) {
